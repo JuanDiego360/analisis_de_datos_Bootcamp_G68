@@ -4,9 +4,9 @@ en este respositorio encontrarás un análisis estadístico de los accídentes o
 
 ## Cosas por hacer:
 
-[] hacer un gráfico de los accidentes por día de la semana <br>
-[] hacer un gráfico de torta de los accidentes por barrio y por comuna <br>
-[] hacer un gráfico de barra que relacione los años, los tipos de vehículos <br>
-[] hacer un gráfico de barras (2 barras que relaciones entidad con los tipos de vehículo) <br>
-[] hacer un gráfico que relacione la columna diurna/nocturno con el número de accidentes <br>
-[] hacer un gráfico de propietario del vehículo <br>
+[x] hacer un gráfico de los accidentes por día de la semana <br>
+[x] hacer un gráfico de torta de los accidentes por barrio y por comuna <br>
+[x] hacer un gráfico de barra que relacione los años, los tipos de vehículos <br>
+[x] hacer un gráfico de barras (2 barras que relaciones entidad con los tipos de vehículo) <br>
+[x] hacer un gráfico que relacione la columna diurna/nocturno con el número de accidentes <br>
+[x] hacer un gráfico de propietario del vehículo <br>
