@@ -4,6 +4,7 @@ en este respositorio encontrarás un análisis estadístico de los accídentes o
 
 ## Cosas por hacer:
 
+[x] hacer la matriz de correlación entre las diferentes variables numéricas del dataframe. <br>
 [x] hacer un gráfico de los accidentes por día de la semana <br>
 [x] hacer un gráfico de torta de los accidentes por barrio y por comuna <br>
 [x] hacer un gráfico de barra que relacione los años, los tipos de vehículos <br>
